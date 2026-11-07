@@ -1,0 +1,16 @@
+# TASK-XXXX — [Tên công việc]
+- Trạng thái: `NOT_STARTED`
+- Ưu tiên: LOW / MEDIUM / HIGH / CRITICAL
+- AI phụ trách:
+- AI phản biện:
+- Người duyệt:
+- Ngày tạo:
+- Mục tiêu:
+- Phạm vi được phép:
+- Ngoài phạm vi:
+- Đầu vào:
+- File dự kiến thay đổi:
+- Rủi ro:
+- Điều kiện hoàn tất:
+- Cách kiểm tra:
+- Checkpoint tiếp theo:
