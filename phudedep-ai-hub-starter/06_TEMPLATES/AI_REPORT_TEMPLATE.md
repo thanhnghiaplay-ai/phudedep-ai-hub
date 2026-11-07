@@ -1,0 +1,14 @@
+# Báo cáo AI — TASK-XXXX
+- AI:
+- Thời gian UTC:
+- Trạng thái:
+- Đã đọc:
+- Kết luận:
+- Bằng chứng:
+- File đã thay đổi:
+- Commit/PR:
+- Kiểm thử đã chạy:
+- Kiểm thử chưa chạy:
+- Rủi ro:
+- Điểm cần AI khác phản biện:
+- Việc tiếp theo:
