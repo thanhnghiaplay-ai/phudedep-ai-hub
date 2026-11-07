@@ -1,0 +1,14 @@
+# Handover — TASK-XXXX
+- AI bàn giao:
+- AI tiếp quản:
+- Thời gian UTC:
+- Trạng thái task:
+- Checkpoint cuối:
+- Commit cuối đã xác minh:
+- File đã thay đổi:
+- Đã hoàn tất:
+- Còn dang dở:
+- Test đã chạy:
+- Test chưa chạy:
+- Rủi ro:
+- Bước tiếp theo:
